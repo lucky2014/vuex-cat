@@ -5,10 +5,10 @@
 ## 项目初始化
 ``` bash
 # 克隆项目代码
-git clone https://github.com/lichenbuliren/vuex-notes-app.git
+git clone https://github.com/lucky2014/vuex-cat.git
 
 # 进入到项目根目录
-cd vuex-notes-app
+cd vuex-cat
 
 # 安装依赖包
 npm install
